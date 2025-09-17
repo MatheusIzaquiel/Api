@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const password = "mt3303310";
+const password = "";
 const nameDB = "pizzaria";
 const mongoUrl = `mongodb+srv://dbMatheus:${password}@bancodedadosdaapi.wp8rpum.mongodb.net/${nameDB}?retryWrites=true&w=majority&appName=BancodeDadosdaApi`;
 
